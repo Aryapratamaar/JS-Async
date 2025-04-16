@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "first_name": "Asep",
+    "last_name": "Kadal",
+    "email": "asepkadal@gmail.com",
+    "gender": "jantan"
+  },
+  {
+    "id": 2,
+    "first_name": "Adit",
+    "last_name": "Rendang",
+    "email": "aditrendang@gmail.com",
+    "gender": "jantan"
+  }
+]
