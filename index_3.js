@@ -9,7 +9,7 @@ async function read() {
     //ubah format menjadi object
     data = JSON.parse(data);
 
-    //ubah data dengan id 2
+    //ubah data gender dengan id 2
     const target = data.find(item => item.id === 2);
     if (target) {
       target.gender = "jantan";
